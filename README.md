@@ -1,9 +1,7 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
-```
- Name: SAIRAM E
- Register No: 212224240141
-```
+# Name: SAIRAM E
+# Register No: 212224240141
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
